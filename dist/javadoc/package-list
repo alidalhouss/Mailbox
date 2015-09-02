@@ -1,0 +1,8 @@
+REST
+directory.controller
+directory.model.ejb
+directory.model.jpa
+login
+mailbox.controller
+mailbox.jms
+org.netbeans.rest.application.config
